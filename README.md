@@ -5,6 +5,6 @@ Exercise from a tutorial.
 
 Load the project in Unity Hub.
 
-Now copy the files from this repository, into the project folder and overwrite any existing file.
+Now copy the Assets folder from this repository and copy it into the project folder overwriting any existing file.
 
 It should create your own copy of the finished tutorial when completed.
